@@ -786,7 +786,7 @@ Mean
 0.9330
 0,9543
 
-5. Results and discussion
+## 5. Results and discussion
 In this part, we present our results obtained by the application of
 our proposed DCNN model for molecular similarity searching in LBVS.
 Firstly, to evaluate the performance of our DCNN model, we have
@@ -2187,7 +2187,7 @@ and BIN, respectively. As a result, the overall ranking of similarity
 methods is as follows: 𝐷𝐶𝑁𝑁𝐿𝐵 > 𝐹 𝑆𝐺𝐴𝑆𝑆 > 𝑄𝑃 𝑅𝑃 − 𝐶 > 𝑇 𝐴𝑁 >
 𝐵𝐼𝑁 > 𝑆𝑄𝐵.
 
-6. Conclusion
+## 6. Conclusion
 
 Abbreviation
 
@@ -2284,7 +2284,7 @@ model, Analysis of the results, Supervision.
 Declaration of competing interest
 The authors declare that they have no known competing financial interests or personal relationships that could have appeared to
 influence the work reported in this paper.
-References
+## References
 Abdo, A., & Salim, N. (2009). Similarity-based virtual screening with a bayesian
 inference network. ChemMedChem: Chemistry Enabling Drug Discovery, 4, 210–218.
 http://dx.doi.org/10.1002/cmdc.200800290.
