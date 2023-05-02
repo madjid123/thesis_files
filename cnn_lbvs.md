@@ -1,24 +1,5 @@
-Expert Systems With Applications 203 (2022) 117287
 
-Contents lists available at ScienceDirect
-
-Expert Systems With Applications
-journal homepage: www.elsevier.com/locate/eswa
-
-Deep Convolutional Neural Network to improve the performances of
-screening process in LBVS
-Fouaz Berrhail a,b ,∗, Hacene Belhadef b , Mohammed Haddad c
-a Faculty of Technology, University of SETIF 1, Setif, Algeria
-b
-c
-
-SD2A team, LISIA Laboratory, University Abdelhamid MEHRI of Constantine 2, Constantine, Algeria
-LIRIS Laboratory, University of Claude Bernard Lyon 1, Lyon, France
-
-ARTICLE
-
-INFO
-
+# Deep Convolutional Neural Network to improve the performances of screening process in LBVS
 Keywords:
 Deep learning
 Convolutional neural network
@@ -29,7 +10,7 @@ Similarity searching
 Drug discovery
 2D fingerprint
 
-ABSTRACT
+## ABSTRACT
 Drug design is a research process with a goal of creating a chemical drug to produce the desired biological
 effect. Because of the long time and the high cost issues associated with traditional drug discovery, there
 is a need to develop new techniques and strategies to increase the diminishing effectiveness of traditional
@@ -199,9 +180,7 @@ important than others through chemical structure diagrams, such as
 functional groups. It is therefore more important to give more weight
 to these descriptors than to others; examples of these works (Abdo &
 Salim, 2011; Karnachi & Brown, 2004; Whittle et al., 2003). The use of
-2
 
-Expert Systems With Applications 203 (2022) 117287
 
 F. Berrhail et al.
 
